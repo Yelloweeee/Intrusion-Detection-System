@@ -1,0 +1,22 @@
+[
+    "Bwd Packet Length Max",
+    "Fwd Packets Length Total",
+    "Fwd Packet Length Max",
+    "Init Fwd Win Bytes",
+    "Init Bwd Win Bytes",
+    "Flow Duration",
+    "Fwd Packet Length Mean",
+    "Bwd Header Length",
+    "Fwd Header Length",
+    "Flow IAT Std",
+    "Bwd Packets/s",
+    "Flow IAT Mean",
+    "Flow Packets/s",
+    "Flow Bytes/s",
+    "Bwd IAT Max",
+    "Bwd IAT Total",
+    "Bwd IAT Mean",
+    "Active Mean",
+    "Bwd IAT Std",
+    "Active Max"
+]
